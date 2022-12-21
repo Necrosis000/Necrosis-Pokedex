@@ -1,2 +1,2 @@
 # Necrosis-Pokedex
-[Imgur](https://i.imgur.com/GNWlIzp.png)
+![Imgur](https://i.imgur.com/GNWlIzp.png)
