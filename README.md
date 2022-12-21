@@ -1,2 +1,2 @@
 # Necrosis-Pokedex
-A pokédex made in C#
+[Imgur](https://i.imgur.com/GNWlIzp.png)
