@@ -8,3 +8,10 @@ There is a few bugs however... As this is my first program with C# but I hope yo
 ## How to download?
 
 Go to the releases section and download the zip file under the latest release!
+
+
+## Know bugs
+
+Font is broken and the only way to fix it is to dowload it
+
+Link: https://github.com/Necrosis000/Necrosis-Pokedex/raw/main/font-bugfix/pokemon_fire_red.zip
